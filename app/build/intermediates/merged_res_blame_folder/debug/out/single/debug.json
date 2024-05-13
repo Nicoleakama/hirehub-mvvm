@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\font_poppins_light.ttf.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\font\\poppins_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_message.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\font_poppins_extra_bold.ttf.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\font\\poppins_extra_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\font_poppins_italic.ttf.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\font\\poppins_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_official.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\official.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-75:/drawable_button.jpg.flat",
+        "source": "net.ezra.app-main-77:/drawable/button.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_slack.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\slack.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_location.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-pngs-70:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_ic_app_logo.xml.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\ic_app_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\font_poppins_thin.ttf.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\font\\poppins_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_netflix.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\netflix.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_tick.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_briefcase.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\briefcase.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_elevate.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\elevate.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_microsoft.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\microsoft.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_kindpng.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\kindpng.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_google.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_instagram.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\font_poppins_black.ttf.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\font\\poppins_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_royalperfume.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\royalperfume.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_newlogo.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\newlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_edit.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_job.jpg.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\job.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_welcome.avif.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\welcome.avif"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_ball.jpg.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\ball.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_save.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_backarrow.png.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\backarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-merged_res-75:\\drawable_profile.jpg.flat",
+        "source": "C:\\Users\\Lameck Akama\\.gradle\\daemon\\7.3.3\\net.ezra.app-main-77:\\drawable\\profile.jpg"
+    }
+]
